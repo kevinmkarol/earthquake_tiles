@@ -1,0 +1,4 @@
+ofxCsv
+ofxGifEncoder
+ofxOpenCv
+ofxQuadWarp
